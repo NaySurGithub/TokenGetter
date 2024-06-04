@@ -1,0 +1,60 @@
+body {
+    font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+    background: #f0f6fd;
+}
+
+.login-container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 40px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #2c2f33;
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    display: block;
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 14px;
+    font-size: 16px;
+    border: 1px solid #d4d7dc;
+    border-radius: 5px;
+    background: #f9fafc;
+}
+
+button {
+    background-color: #7289da;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #677bc4;
+}
+
+#token-display {
+    margin-top: 20px;
+}
+
+h3 {
+    color: #2c2f33;
+}
+
+p {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #72767d;
+}
+
+.hidden {
+    display: none;
+}
