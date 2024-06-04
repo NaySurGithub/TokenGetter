@@ -29,7 +29,6 @@ Token Getter is a simple web interface that allows users to log in to their Disc
 
 ## Screenshots
 ![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 ## Author
 This project was developed by [NaySurGithub](https://github.com/NaySurGithub).
